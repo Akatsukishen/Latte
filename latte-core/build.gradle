@@ -34,4 +34,5 @@ dependencies {
     //图标
     compile 'com.joanzapata.android.iconify:android-iconify-fontawesome:2.0.0'
     compile 'com.joanzapata.iconify:android-iconify-ionicons:2.2.2'
+    compile 'com.joanzapata.iconify:android-iconify:2.2.2'
 }
